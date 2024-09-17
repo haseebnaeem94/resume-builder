@@ -1,0 +1,58 @@
+* body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(104, 106, 108);
+    margin: 0;
+    padding: 150px;
+}
+
+.container{
+    display: flex;
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px solid black;
+    
+}
+.haseeb{
+    background-color: rgb(192, 160, 222);
+    color: white;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    border-right: 5px solid burlywood;
+
+
+}
+.image{
+    width: 150px;
+    height: 150px;
+    margin-top: 10%;
+    border-radius: 50%;
+    border: 5px solid blanchedalmond;
+    margin-bottom: 20px;
+}
+h3{
+   font-size: 20px;
+   padding: 2%;
+   margin: 20px;
+   color: chartreuse;
+   border-radius: 10px;
+   box-shadow: 0 0 15px rgb(219, 209, 206);
+   margin-top: 5%;
+   margin-bottom: 5%;
+   text-align: center;
+}
+h1{
+    font-size: 40px;
+    margin: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.myinfo{
+   padding: 20px; 
+   width: 60%;
+}
+.button:hover{
+    color: blueviolet;
+    background-color: chartreuse;
+}
